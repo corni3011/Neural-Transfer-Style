@@ -3,6 +3,8 @@ Main Files to execute are:
 - /VGG13/VGG13_Style_Transfer.py for transfering style <- For this to work you have to change the path to the previously exported weights accordingly in line 139
 - /Pretrained VGG/Style_Transfer.py
 
+Both VGG13_Style_Transfer.py and Style_Transfer.py export the results in the form of jpg files
+
 -----Abstract----
 This paper is an implementation of an artistic style transfer approach based on “A Neural Algorithm of Artistic Style” by Gatys, Ecker and Bethge (2018). 
 We start by giving a short explanation of what the transfer of artistic style is and follow up by giving a brief overview of different approaches towards 
