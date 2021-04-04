@@ -1,7 +1,7 @@
 Main Files to execute are: 
 - /VGG13/VGG13_Training.py to train the network
 
-- /VGG13/VGG13_Style_Transfer.py for transfering style <- For this to work you have to change the path to the previously exported weights accordingly in line 139
+- /VGG13/VGG13_Style_Transfer.py for transfering style <- For this to work you have to change the path to the previously automaticly exported weights accordingly in line 139
 
 - /Pretrained VGG/Style_Transfer.py
 
